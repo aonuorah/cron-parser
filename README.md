@@ -26,7 +26,7 @@ $ java -jar target/cron-parser-1.0-SNAPSHOT.jar "*/15 0 1,15 * 1-5 /usr/bin/find
 minutes        0 15 30 45
 hours          0
 day of month   1 15
-month          2 3 4 5 6
-day of week    3
+month          1 2 3 4 5 6 7 8 9 10 11 12
+day of week    1 2 3 4 5
 command        /usr/bin/find
 ```
